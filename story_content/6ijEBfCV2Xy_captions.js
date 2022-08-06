@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.65.28121.0%0D%0A%0D%0A00:00:00.128%20--%3E%2000:00:02.304%0D%0AThe%20older%20we%20are,%20the%20harder%20it%20is%20to%20recover%0D%0A%0D%0A00:00:02.305%20--%3E%2000:00:03.333%0D%0Afrom%20heat%20illness.%0D%0A%0D%0A"}')
